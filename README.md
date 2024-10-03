@@ -20,6 +20,10 @@
 - [Chapter 16 - Refactoring SerialDate](#chapter15)
 - [Chapter 17 - Smells and Heuristics](#chapter17)
 
+<h1>Credits</h1>
+
+This document is a summary of the wonderful 2008 book **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert C. Martin. [link](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
 <a name="chapter1">
 <h1>Chapter 1 -  Clean Code</h1>
 </a>
